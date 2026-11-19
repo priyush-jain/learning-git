@@ -1,0 +1,4 @@
+cd=use to change dicractory 
+ls= return all item
+mkdir= create folder
+touch= create file
