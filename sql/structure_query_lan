@@ -1,0 +1,55 @@
+its all about sql=
+ #it is an structure query language 
+#4th gen 
+#domain specific lang 
+#declarative lang 
+
+ NOW WHT IS DECLARATIVE lang
+set of intrections are pre definied 
+
+but in progamiung lang we have 
+to define each nd all intrections
+
+
+#difference btw  sql nd mysequel
+ = sql is an language to run querry 
+nd my sql is an data managment system in my sql  we 
+use sql language
+
+#ddl = data defination language which works on datatype  nd table (structure)
+in this  COMMAND LIKE create ,rename , drop , truncate, alter 
+ to define structure or datan these 3 things are mandatory
+1 column 
+2datatype
+3constraints 
+ ## imp diff btw drop nd truncate 
+##  drop = struture nd data fully deleted permanently
+##  truncate = data fully deleted but stuture exist.
+
+## alter = to change 
+change can be of 3 types
+1 add column
+2 remove / drop column
+3 rename columnn
+
+
+#dml 
+= data manipulation lang which works on data / value (we  insert data  in our columns)
+dml includes comands like insert , delet , select , update 
+
+### delete -- in this  we can delet data permanently or as well as tempreary
+### also = we can delect all the data in one go or can delete particular record one
+one.
+
+there are 2 type of insertion
+1  standard insertion 
+# single record insertion
+# multiple record insertion
+2 extension based insertion 
+ 
+## utilities  
+in this comand like use ,desc ,show are there   
+
+
+
+
